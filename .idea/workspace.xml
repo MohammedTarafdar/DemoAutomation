@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab8c9612-0573-4a8c-9a4a-8f9cd1c53e25" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wg1AqgCyN1ifGIu02J5mw31d8j" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./MyDevelopment/DemoAutomation/testng.xml">
+    <configuration name="HomePageTest.doLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.automation.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.automation.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.automation.testcases.HomePageTest" />
+      <option name="METHOD_NAME" value="doLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.homePageTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.automation.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.automation.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.automation.testcases.HomePageTest" />
+      <option name="METHOD_NAME" value="homePageTitleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.verifyLoginLinkTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.automation.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.automation.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.automation.testcases.HomePageTest" />
+      <option name="METHOD_NAME" value="verifyLoginLinkTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/MyDevelopment/DemoAutomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./MyDevelopment/DemoAutomation/testng.xml" />
+        <item itemvalue="TestNG.HomePageTest.doLoginTest" />
+        <item itemvalue="TestNG.HomePageTest.verifyLoginLinkTest" />
+        <item itemvalue="TestNG.HomePageTest.homePageTitleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab8c9612-0573-4a8c-9a4a-8f9cd1c53e25" name="Default Changelist" comment="" />
+      <created>1579556282916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579556282916</updated>
+    </task>
+    <servers />
+  </component>
+</project>
