@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="/MyDevelopment/DemoAutomation(failed)">
+    <classes>
+      <class name="com.demo.automation.testcases.HomePageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="doLoginTest"/>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- com.demo.automation.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- /MyDevelopment/DemoAutomation(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
